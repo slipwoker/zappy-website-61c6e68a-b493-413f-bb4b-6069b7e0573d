@@ -1,0 +1,59 @@
+# תוכן לימודי מסחר מוצלח בבורסה — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### בית
+https://-61c6e68a.zappy5.app
+גלה את תוכן הלימוד המקצועי ביותר למסחר בבורסה. הצטרף למשקיעים מובילים והתחל למסור כבר היום!
+
+### תכניות לימוד
+https://-61c6e68a.zappy5.app/services
+גלה את מגוון תכניות הלימוד שלנו למסחר בבורסה - מותאמות למשקיעים צעירים, פנסיונרים ומשקיעים טכנולוגיים.
+
+### אודות
+https://-61c6e68a.zappy5.app/about
+למד על הסיפור שלנו, הצוות המקצועי, והמחויבות שלנו לספק education איכותי למשקיעים בכל הרמות.
+
+### צור קשר
+https://-61c6e68a.zappy5.app/contact
+צור קשר עם המומחים שלנו והתחל את המסע שלך להצלחה בבורסה. אנחנו כאן לענות על כל השאלות שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-61c6e68a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-61c6e68a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-61c6e68a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תוכן לימודי מסחר מוצלח בבורסה
+תוכן לימודי מסחר מוצלח בבורסה is a business in the General industry.
+
+## Target Audience
+- משקיעים צעירים מקצועיים
+- פנסיונרים המעוניינים להשקיע
+- משקיעים טכנולוגיים מתקדמים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-61c6e68a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-61c6e68a.zappy5.app/robots.txt
